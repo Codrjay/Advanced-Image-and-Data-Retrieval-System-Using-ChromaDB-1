@@ -96,15 +96,4 @@ Or click the thumbnail below to watch:
 
 [![Watch the video](https://img.youtube.com/vi/#0.jpg)](https://youtu.be/&)
 
-## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
-).
-
-Or click the thumbnail below to watch:
-
-[![Watch the video](https://img.youtube.com/vi/lLEenMOYr5w/0.jpg)](https://youtu.be/lLEenMOYr5w)
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
