@@ -88,12 +88,5 @@ pip install librosa torch chromadb pillow transformers gradio moviepy scikit-lea
 
 - Search for specific images, videos, or audio content by typing relevant keywords into the query box.
 
-## Video Demonstration
-
-You can watch a demonstration of the application [here](https://youtu.be/#).
-
-Or click the thumbnail below to watch:
-
-[![Watch the video](https://img.youtube.com/vi/#0.jpg)](https://youtu.be/&)
 
 
